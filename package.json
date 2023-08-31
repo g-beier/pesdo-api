@@ -1,0 +1,23 @@
+{
+  "name": "pesdo-api",
+  "version": "1.0.0",
+  "description": "API to store gym workouts.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest-api",
+    "gym",
+    "postgresql",
+    "express"
+  ],
+  "author": "Gustav Beier",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
