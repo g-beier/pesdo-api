@@ -4,14 +4,8 @@
   "description": "API to store gym workouts.",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "npx nodemon src/index.js"
   },
-  "keywords": [
-    "rest-api",
-    "gym",
-    "postgresql",
-    "express"
-  ],
   "author": "Gustav Beier",
   "license": "ISC",
   "dependencies": {
